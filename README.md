@@ -1,6 +1,7 @@
 # Dart-game-in-higher-dimension
 - the idea is inspirated by 3brown1blue and his video about this subject
 - this programme is made to animate this game and the convergence of his score
+- for more information the pdf here is to help inderstanding
 ![Dart 51png](https://user-images.githubusercontent.com/49163010/120899721-08e33980-c629-11eb-9cb2-3df15376a12a.png)
 ![Dart55](https://user-images.githubusercontent.com/49163010/120899729-126ca180-c629-11eb-8993-76292e3e7333.png)
 ![Dart8](https://user-images.githubusercontent.com/49163010/120899733-14cefb80-c629-11eb-8286-537bb87640f5.png)
